@@ -1,4 +1,5 @@
 # 💙 Welcome To My Homepage 💙
+![homepagePicture1](pics/v2-b4fa1163d7c6f7bb2d246eb1a7bb6b50.jpg)
 ## Can I help you ?
 ### :star: Have a look at my *learning resources* about computer ?
 - [Click here](https://github.com/SunDocker/MyComputerLearningResources) linking to my repository that stores my learning resources
