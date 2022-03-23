@@ -1,4 +1,11 @@
-### Hi there 👋
+# 💙 Welcome To My Homepage 💙
+## Can I help you ?
+### :star: Have a look at my *learning resources* about computer ?
+- [Click here]() linking to my repository that stores my learning resources
+- There are ***all my notes*** about <u>computer learning</u> in this repository
+### :star: Would like to see *my projects* about Java ?
+- [A4Paper]() --- An application for reciting words
+- [AirplaneWar]() --- A game, just like the project name (Actually it's an experiment for a course in my university)
 
 <!--
 **SunDocker/SunDocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
