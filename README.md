@@ -13,7 +13,7 @@
 - [AircraftWar-BaseApp](https://github.com/SunDocker/AircraftWar-BaseApp) Transported aircraft war game (Actually it's also an experiment for a course in my university)
 ### :star2: Come to see my Vue projects ?
 > I'm bad at front-end technology, forgive me please ...
-- [wisdom-world](github https://github.com/SunDocker/wisdom-world-app.git) --- A website to collect users' inspiration and promote ideas communication
+- [wisdom-world](https://github.com/SunDocker/wisdom-world-app.git) --- A website to collect users' inspiration and promote ideas communication
 - [YEB-backstage-front-end](https://github.com/SunDocker/YEB-backstage-front-end) --- An online office management system
 
 <!--
