@@ -12,6 +12,7 @@
 - [wisdom-world](https://github.com/SunDocker/wisdom-world-app.git) --- A website to collect users' inspiration and promote ideas communication
 - [YEB-backstage-front-end](https://github.com/SunDocker/YEB-backstage-front-end) --- An online office management system
 ### :star2: Have an interest in my *learning resources* about computer ?
+> It will be updated continuously ...
 - About ***JavaWEB***
   - (Java SE)[https://github.com/SunDocker/Java-SE.git]
   - (MySQL and JDBC)[https://github.com/SunDocker/MySQL_JDBC.git]
@@ -44,8 +45,6 @@
   - (Java Operating Office (Java操作Office))[https://github.com/SunDocker/java-operate-office.git]
   - (Mathematical Logic (数理逻辑))[https://github.com/SunDocker/mathematical-logic.git]
   - (Formal Language and Automata Theory (形式语言与自动机))[https://github.com/SunDocker/formal-language-and-automata.git]
-  - 
-- (It will be updated sometime, coming soon ...)
 
 
 
