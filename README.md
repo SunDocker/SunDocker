@@ -36,7 +36,7 @@
   - [Operation System (操作系统)](https://github.com/SunDocker/operation-system.git)
   - [Design Mode (设计模式)](https://github.com/SunDocker/design-mode.git)
 - About ***Machine Learning***
-  - ...
+  - [Mathematical Modeling Instructino (数学建模导论)](https://github.com/SunDocker/mathematical_modeling_instruction.git)
 - About Other Computer Learning Resources
   - [Linux](https://github.com/SunDocker/Linux.git)
   - [Little Knowledge about Computer Technology (计算机相关小知识)](https://github.com/SunDocker/computer-little-knowledge.git)
