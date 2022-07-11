@@ -28,7 +28,8 @@
   - [Java Network Programming (Java网络编程)](https://github.com/SunDocker/network-programming.git)
   - [SpringSecurity](https://github.com/SunDocker/SpringSecurity.git)
 - About ***Big Data*** And ***Distributed Tech***
-  - ...
+  - [Python Data Analysis (Python数据分析)](https://github.com/SunDocker/python_data_analysis.git)
+  - [Mathematical Modeling Instructino (数学建模导论)](https://github.com/SunDocker/mathematical_modeling_instruction.git)
 - About ***Computer Theoretical Knowledge***
   - [Data Structure and Algorithm (数据结构与算法)](https://github.com/SunDocker/data-structure-and-algorithm.git)
   - [Principles of Computer Organization (计算机组成原理)](https://github.com/SunDocker/principles-of-computer-composition.git)
@@ -36,7 +37,7 @@
   - [Operation System (操作系统)](https://github.com/SunDocker/operation-system.git)
   - [Design Mode (设计模式)](https://github.com/SunDocker/design-mode.git)
 - About ***Machine Learning***
-  - [Mathematical Modeling Instructino (数学建模导论)](https://github.com/SunDocker/mathematical_modeling_instruction.git)
+  - ...
 - About Other Computer Learning Resources
   - [Linux](https://github.com/SunDocker/Linux.git)
   - [Little Knowledge about Computer Technology (计算机相关小知识)](https://github.com/SunDocker/computer-little-knowledge.git)
