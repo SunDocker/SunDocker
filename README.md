@@ -14,22 +14,25 @@
 ### :star2: Have an interest in my *learning resources* about computer ?
 > It will be updated continuously ...
 - About ***JavaWEB***
-  - [Java SE](https://github.com/SunDocker/Java-SE.git)
-  - [MySQL and JDBC](https://github.com/SunDocker/MySQL_JDBC.git)
-  - [HTML, CSS and JavaScript](https://github.com/SunDocker/HTML_CSS_JavaScript.git)
-  - [Servlet and JSP](https://github.com/SunDocker/Servlet_JSP.git)
-  - [JSON and AJAX](https://github.com/SunDocker/JSON_AJAX.git)
-  - [Maven and Gradle](https://github.com/SunDocker/Maven_Gradle.git)
-  - [SSM, SpringBoot, Mybatis Plus](https://github.com/SunDocker/SSM_SpringBoot_MyBatisPlus.git)
-  - [ES6, Promise, AXIOS and VUE](https://github.com/SunDocker/ES6_Promise_Axios_Vue.git)
-  - [Redis and Nginx](https://github.com/SunDocker/Redis_Nginx.git)
-  - [Java Concurrent Programming (Java并发编程)](https://github.com/SunDocker/concurrent-programming.git)
+  - [Java SE（Java语言基础）](https://github.com/SunDocker/Java-SE.git)
+  - [MySQL and JDBC（MySQL数据库和Java连接数据库）](https://github.com/SunDocker/MySQL_JDBC.git)
+  - [HTML, CSS and JavaScript（前端三大基础语言）](https://github.com/SunDocker/HTML_CSS_JavaScript.git)
+  - [Servlet and JSP（Java服务端程序）](https://github.com/SunDocker/Servlet_JSP.git)
+  - [JSON and AJAX（JSON数据交换格式和AJAX异步通信技术）](https://github.com/SunDocker/JSON_AJAX.git)
+  - [Maven and Gradle（两种常见的项目构建工具）](https://github.com/SunDocker/Maven_Gradle.git)
+  - [SSM, SpringBoot, Mybatis Plus（Java常用的开发框架）](https://github.com/SunDocker/SSM_SpringBoot_MyBatisPlus.git)
+  - [ES6, Promise, AXIOS and VUE（前端进阶知识点和Vue框架）](https://github.com/SunDocker/ES6_Promise_Axios_Vue.git)
+  - [Redis and Nginx（Redis缓存技术和Nginx服务器）](https://github.com/SunDocker/Redis_Nginx.git)
   - [Java Function Programming (Java函数式编程)](https://github.com/SunDocker/function-programming.git)
-  - [Java Network Programming (Java网络编程)](https://github.com/SunDocker/network-programming.git)
-  - [SpringSecurity](https://github.com/SunDocker/SpringSecurity.git)
-- About ***Big Data*** And ***Distributed Tech***
+  - [SpringSecurity（Java常用的安全框架）](https://github.com/SunDocker/SpringSecurity.git)
+- About ***Big Data***
   - [Python Data Analysis (Python数据分析)](https://github.com/SunDocker/python_data_analysis.git)
   - [Mathematical Modeling Instructino (数学建模导论)](https://github.com/SunDocker/mathematical_modeling_instruction.git)
+- About ***Distributed Tech*** and ***Microservice***
+  - [Docker and Kubernetes（Docker容器技术和Kubernetes集群管理技术）](https://github.com/SunDocker/Docker_Kubernetes.git)
+  - [gRPC（google的远程过程调用框架）](https://github.com/SunDocker/gRPC.git)
+  - [Java Network Programming (Java网络编程)](https://github.com/SunDocker/network-programming.git)
+  - [Java Concurrent Programming (Java并发编程)](https://github.com/SunDocker/concurrent-programming.git)
 - About ***Computer Theoretical Knowledge***
   - [Data Structure and Algorithm (数据结构与算法)](https://github.com/SunDocker/data-structure-and-algorithm.git)
   - [Principles of Computer Organization (计算机组成原理)](https://github.com/SunDocker/principles-of-computer-composition.git)
@@ -39,9 +42,9 @@
 - About ***Machine Learning***
   - ...
 - About Other Computer Learning Resources
-  - [Linux](https://github.com/SunDocker/Linux.git)
+  - [Linux（Linux操作系统）](https://github.com/SunDocker/Linux.git)
   - [Little Knowledge about Computer Technology (计算机相关小知识)](https://github.com/SunDocker/computer-little-knowledge.git)
-  - [uniapp](https://github.com/SunDocker/uniapp.git)
+  - [uniapp（客户端开发框架uniapp）](https://github.com/SunDocker/uniapp.git)
   - [C++](https://github.com/SunDocker/c-plus.git)
   - [Java Operating Office (Java操作Office)](https://github.com/SunDocker/java-operate-office.git)
   - [Mathematical Logic (数理逻辑)](https://github.com/SunDocker/mathematical-logic.git)
